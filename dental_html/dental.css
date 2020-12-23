@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding:0;
+}
+header{
+    height:120px;
+
+}
+.head-color{
+    height:8px;
+    background-color:#6CC6C4;
+
+}
+.container1{
+    width:920px;
+    margin: 0 auto;
+}
+.header-img{
+    padding-top:60px;
+}
+.list1{
+    float:right;
+    padding-top: 10px;
+    text-align: right;
+    list-style: none;
+}
+.list1 li{
+    padding-bottom: 10px;
+}
+.list-1{
+    font-size:12px;
+}
+.list-2{
+    font-size:27px;
+    padding-top:20px;
+    background-image: url(https://haniwaman.com/sample/part3/template_08/common/images/bgTel.png);
+    background-repeat: no-repeat;
+    background-position-x:0px;
+    background-position-y:23px;
+    background-size: 25px;
+    
+}
+
+
+.list-3{
+    border:1px solid black;
+    font-size:10px;
+    padding:10px 20px;
+    text-align: center;
+}
+.list-3 span{
+    color:red;
+}
+.introduction{
+    padding-top: 60px;
+}
+.container2{
+    width:920px;
+    margin: 0 auto;
+}
+.list2 {
+    text-align: center;
+    width:930px;
+    height:75px;
+}
+.list2 li{
+    display:block;
+    float:left;
+    line-height:65px;
+    cursor:pointer;
+    box-sizing: border-box;
+    background: linear-gradient(to top, #6CC6C4, #86f7ef);
+    border-right: 1px solid #71C9C7;
+    border-left: 1px solid #99E1DF;
+    width: calc(100%/5);
+}
+.list2-corner1{
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.list2-corner2{
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+}
+.list2 :active{
+    background: linear-gradient(to bottom, #6CC6C4, #86f7ef);
+}
+.list2 a{
+    color:white;
+    text-decoration: none;
+}
+.main{
+    width:920px;
+    margin: 0 auto;
+    position: relative;
+}
+.infomation{
+    display: inline-block;
+    position: absolute;
+    left:290px;
+}
+.infomation h3{
+    border-bottom: 3px solid #6CC6C4;
+    padding: 10px;
+}
+.infomation p{
+    font-size: 12px;
+    border-bottom:1px dotted black;
+    padding:10px;
+}
+.date{
+    display: inline-block;
+    padding:10px 10px 0 0;
+    margin:10px 10px 10px 0;
+    font-weight: bold;
+}
+.aside{
+    display: inline-block;
+}
+.left-nav1{
+    width:260px;
+    height:240px;
+    border:1px solid #6CC6C4;
+    margin:0 20px 20px 0;
+    display:inline-block;
+    border-top-left-radius:5px;
+    border-top-right-radius: 5px;
+}
+.left-nav1 h3{
+    padding: 10px;
+    background: linear-gradient(to top, #6CC6C4, #86f7ef);
+    color:white;
+    border-top-left-radius:5px;
+    border-top-right-radius: 5px;
+}
+.left-nav1 ul{
+    list-style: none;
+}
+.left-nav1 li{
+    border-bottom:1px solid #6CC6C4;
+    padding:10px 0 10px 30px;   
+    cursor:pointer;
+    width:200px;
+    margin:0 auto;
+}
+.main-icon{
+    width:640px;
+    height:280px;
+    
+}
+.left-nav2{
+    width:260px;
+    height:240px;
+    border:1px solid #6CC6C4;
+    margin-bottom: 20px;
+    display:inline-block;
+    border-top-left-radius:5px;
+    border-top-right-radius: 5px;
+
+}
+.left-nav2 h3{
+    padding: 10px;
+    background: linear-gradient(to top, #6CC6C4, #86f7ef);
+    color:white;
+    border-top-left-radius:5px;
+    border-top-right-radius: 5px;
+}
+.left-nav2 ul{
+    list-style: none;
+}
+.left-nav2 li{
+    border-bottom:1px solid #6CC6C4;
+    padding:10px 0 10px 30px;   
+    cursor:pointer;
+    width:200px;
+    margin:0 auto;
+}
+.infomation{
+    width:640px;
+}
+footer{
+    width:920px;
+    margin: 0 auto;
+    padding:270px;
+}
+.container5 ul{
+    background-color: #6CC6C4;
+    width:920px;
+}
+.container5 li{
+    display: inline-block;
+    padding:5px 10px;
+    border-radius:10px;
+}
+.container5 a{
+    color:white;
+    text-decoration: none;
+}
+.container5{
+    
+    position: absolute;
+}
