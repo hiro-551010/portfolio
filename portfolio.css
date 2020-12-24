@@ -24,7 +24,6 @@ header a{
     color:black;
     line-height:80px;
     opacity: 0.7;
-    
     display:inline-block;
     letter-spacing: 1px;
 }
@@ -48,10 +47,28 @@ header li:hover{
 .main-wrapper h4{
     font-size:20px;
 }
+section{
+    width:920px;
+    margin: 0 auto;
+}
 .logo{
     text-align: center;
     padding:100px;
 }
+.works-head{
+    text-align: center;
+    font-size:18px;
+}
+
+.icons img{
+    width:45%;
+}
+.icons p{
+    width:45%;
+    text-align: left;
+
+}
+
 
 
 .hobby img{
