@@ -53,7 +53,7 @@ section{
 }
 .logo{
     text-align: center;
-    padding:100px;
+    padding:50px;
 }
 .works-head{
     text-align: center;
@@ -89,13 +89,31 @@ section{
     padding-left:100px;
 }
 
-
+.hobby h3{
+    text-align: center;
+    font-weight: normal;
+}
+.lol{
+    width:500px;
+    padding-right:50px;
+}
+.handball{
+    width:200px;
+}
 .hobby img{
-    width:25%;
+    padding-top: 20px;
+}
+.skills {
+    display:inline-block;
 
-
+    margin:0 auto;
 
 }
-.SKILLS img{
-    width:25%;
+.skills img{
+    height:150px;
+   
+}
+
+.future p{
+    text-align: center;
 }
