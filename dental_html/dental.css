@@ -24,6 +24,8 @@ header{
     text-align: right;
     list-style: none;
 }
+
+
 .list1 li{
     padding-bottom: 10px;
 }
@@ -125,6 +127,7 @@ header{
     display:inline-block;
     border-top-left-radius:5px;
     border-top-right-radius: 5px;
+    
 }
 .left-nav1 h3{
     padding: 10px;
@@ -174,6 +177,7 @@ header{
     cursor:pointer;
     width:200px;
     margin:0 auto;
+
 }
 .infomation{
     width:640px;
@@ -191,6 +195,7 @@ footer{
     display: inline-block;
     padding:5px 10px;
     border-radius:10px;
+    list-style-type:circle;
 }
 .container5 a{
     color:white;
@@ -199,4 +204,13 @@ footer{
 .container5{
     
     position: absolute;
+}
+.address{
+    float:right;
+}
+.address p{
+    font-size:14px;
+}
+.address span{
+    font-size:15px;
 }
