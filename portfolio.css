@@ -60,15 +60,34 @@ section{
     font-size:18px;
 }
 
+.icon {
+    display: inline-block;
+    width: 45%;
+    margin-left:20px;
+}
+
 .icons img{
     width:45%;
+    padding-left:100px;
 }
 .icons p{
-    width:45%;
-    text-align: left;
+    text-align: center;
 
 }
-
+.oriana{
+    margin-left:20%;
+}
+.cass{
+    margin-left:10%;
+}
+.vs img{
+    height:150px;
+}
+.vs p{
+    display: inline-block;
+    font-size:30px;
+    padding-left:100px;
+}
 
 
 .hobby img{
